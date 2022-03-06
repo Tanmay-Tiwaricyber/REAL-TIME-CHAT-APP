@@ -1,0 +1,14 @@
+Installation Steps
+================
+
+1. Download zip file and Unzip file on your local server.
+2. Put this file inside "c:/wamp/www/"  OR "c:/xamp/htdocs/" .
+
+Database Configuration:
+==================
+
+1. Open phpmyadmin
+2. Create New Database named "livechat".
+3. Import database tables in newly created database "livechat" from downloaded folder -> database -> livechat.sql.
+4. Open Your browser put inside URL: "http://localhost/chatApp/"
+
